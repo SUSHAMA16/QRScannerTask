@@ -15,6 +15,6 @@ Dependency :
 4) zxing
 
 Zxing API Dependency:- 
-Supports various barcode formats (QR Code, EAN, UPC, Code 128)
-Can generate and decode QR codes
+Supports various barcode formats (QR Code, EAN, UPC, Code 128),
+Can generate and decode QR codes,
 Works with both images and webcam streams
